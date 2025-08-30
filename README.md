@@ -113,7 +113,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact
 
-Prince Lohia - [@Princelohia9910](https://github.com/Princelohia9910)
+Prince Lohia Git hub - [princelohia](https://github.com/Princelohia9910)
 
 Project Link: [https://github.com/Princelohia9910/Eco_Setu](https://github.com/Princelohia9910/Eco_Setu)
 
