@@ -28,13 +28,13 @@ The name "Eco Setu" combines "Eco" (ecological) with "Setu" (bridge in Hindi), s
 <div align="center">
   <table>
     <tr>
-      <td><img src=![Screenshot_2025-08-30-19-54-24-47_946b1aeb3a25817fc610c4c0d27d4014](https://github.com/user-attachments/assets/95009916-1861-41e4-9744-3174b45386c5)
+      <td><img src="https://github.com/user-attachments/assets/95009916-1861-41e4-9744-3174b45386c5"
  alt="Login Screen" width="200"/></td>
-      <td><img src=![Screenshot_2025-08-30-19-54-30-84_946b1aeb3a25817fc610c4c0d27d4014](https://github.com/user-attachments/assets/a0622e1e-eb77-4666-afc1-f28ff07cbfc9)
+      <td><img src="https://github.com/user-attachments/assets/a0622e1e-eb77-4666-afc1-f28ff07cbfc9"
  alt="Home Dashboard" width="200"/></td>
-      <td><img src=![Screenshot_2025-08-30-19-54-33-71_946b1aeb3a25817fc610c4c0d27d4014](https://github.com/user-attachments/assets/733525a9-fdc3-4d9f-b6a4-5d9ec2fdbbf4)
+      <td><img src="https://github.com/user-attachments/assets/733525a9-fdc3-4d9f-b6a4-5d9ec2fdbbf4"
  alt="QR Scanning" width="200"/></td>
-      <td><img src=![Screenshot_2025-08-30-19-54-36-63_946b1aeb3a25817fc610c4c0d27d4014](https://github.com/user-attachments/assets/df09781b-f8d7-4694-b1e2-ef8fbaaaa700)
+      <td><img src="https://github.com/user-attachments/assets/df09781b-f8d7-4694-b1e2-ef8fbaaaa700"
  alt="Environmental Impact" width="200"/></td>
     </tr>
     <tr>
