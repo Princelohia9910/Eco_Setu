@@ -1,7 +1,7 @@
 # Eco Setu
 
 <div align="center">
-  <img  src="https://github.com/user-attachments/assets/599c03ab-7d32-4cc0-b7dc-be3f07697db8" />
+  <img  src="https://github.com/user-attachments/assets/599c03ab-7d32-4cc0-b7dc-be3f07697db8" 
  alt="Eco Setu Logo" width="200"/>
   <p><i>Connecting people with sustainable waste management solutions</i></p>
 </div>
